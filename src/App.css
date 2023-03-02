@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.loading{
+  position: absolute;
+  top: 50vh;
+  left: 40vw;
+  font-size: 30px;
+  font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.btn-group{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 15vw;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.btn:hover{
+    background-color: transparent;
+    border: 2px solid black;
+    color: #000;
+}
